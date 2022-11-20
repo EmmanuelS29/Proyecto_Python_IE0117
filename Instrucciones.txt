@@ -1,0 +1,11 @@
+Algunas indicaciones claves para este juego:
+1- La nave Yei-Yi es la encargada de eliminar a los enemigos,
+esta tiene movilidad vertical y horizontal. Para moverse utilice
+las "flechas o  teclas de desplazamiento" de su teclado.
+2- Tiene un total de 8 vidas, cada vez que Yei-Yi sea
+impactada por un enemigo, pierde una vida.
+3- La nave cuenta con proyectiles capaces de destruir cualquier
+enemigo, puede utilizarlos presionando la "barra espaciadora". 
+4- Al finalizar la partida, si su puntaje es mayor al valor
+registrado en el historial del juego, este toma el lugar en
+el podio y usted puede titular su legado con tres caracteres.
